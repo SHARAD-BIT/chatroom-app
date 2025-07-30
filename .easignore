@@ -1,9 +1,13 @@
-# Ignore system-specific and Android Studio logs
-Library/
 .DS_Store
-
-# Standard ignores
-node_modules
-android
-ios
-.git
+.Trashes
+*.log
+*.tmp
+*.swp
+Library/
+node_modules/
+build/
+dist/
+.expo/
+.expo-shared/
+android/.gradle/
+android/.idea/
