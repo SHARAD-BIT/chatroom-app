@@ -1,0 +1,9 @@
+# Ignore system-specific and Android Studio logs
+Library/
+.DS_Store
+
+# Standard ignores
+node_modules
+android
+ios
+.git

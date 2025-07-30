@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355939038807",
+    "project_id": "chatroom-7a0e4",
+    "storage_bucket": "chatroom-7a0e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355939038807:android:978ba842c5e8de7f175512",
+        "android_client_info": {
+          "package_name": "com.sharad.chatapproom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6xRGnkj2h0Zq2SvpZ3p2bFbvJDWUjas4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
